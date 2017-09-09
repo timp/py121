@@ -1,0 +1,27 @@
+ID,First name,Surname,DOB,Address 1,Address 2,Town ,County,Postcode,Home phone number,Gender,TutorGroup,School email
+No01,Fred,Smith,27/07/2001,23 The Road,,Basingstoke,Hampshire,RG22 3FG,(01295) 275305,M,SJR,FSmith@cherwell.oxon.sch.uk
+No02,Sally,Jones,30/10/2001,32 Pleasant Street,,Basingstoke,Hampshire,RG23 4SD,(01993) 012514,F,RLH,SJones@cherwell.oxon.sch.uk
+No03,George,Dotts,26/12/2001,345 Boundary Lane,,Reading,Berkshire,RG1 4CV,(01295) 177450,M,RLH,GDotts@cherwell.oxon.sch.uk
+No04,Joyce,Handel,29/03/2002,2 Pickle Avenue,,Reading,Berkshire,RG2 8NM,(01235) 526772,M,SJR,JHandel@cherwell.oxon.sch.uk
+No05,Mabel,Pickles,25/07/2002,The Old Post Office,Church Lane,Guildford,Surrey,GU8 5GT,(01295) 733287,F,SJR,MPickles@cherwell.oxon.sch.uk
+No06,Harry,Simpson,27/05/2002,45 Foundary Road,,Basingstoke,Hampshire,RG24 6YU,(01865) 634224,M,PLT,HSimpson@cherwell.oxon.sch.uk
+No07,Xander,Erikson,21/08/2002,Flat 3,Box Row,Reading,Berkshire,RG23 2SD,(01295) 134250,F,RLH,XErikson@cherwell.oxon.sch.uk
+No08,Arnold,Holland,26/07/2002,45 Reading Road,,Guildford,Surrey,GU1 5TY,(01869) 452374,F,PLT,AHolland@cherwell.oxon.sch.uk
+No09,Lester,Jakes,14/10/2002,567 Tower Street,,Basingstoke,Hampshire,RG23 4WQ,(01295) 703751,M,JKS,LJakes@cherwell.oxon.sch.uk
+No10,Jasmin,Flood,03/11/2002,3a The Cottages,Dover Street,Basingstoke,Hampshire,RG24 7BN,(01869) 064028,F,JKS,JFlood@cherwell.oxon.sch.uk
+No11,Nikki,Ayers,02/02/2001,2 Leabrook Close,,Banbury,Oxfordshire,OX16 9ET,(01865) 266055,F,SJR,NAyers@cherwell.oxon.sch.uk
+No12,May,Gladwyn,21/09/2001,25 Queens Road,,Carterton,Oxfordshire,OX18 3YB,(01295) 675451,F,RLH,MGladwyn@cherwell.oxon.sch.uk
+No13,Nevaeh ,Bellamy,29/09/2001,126 Manor Road,,Banbury,Oxfordshire,OX16 3JW,(01295) 026036,M,RLH,NBellamy@cherwell.oxon.sch.uk
+No14,Indigo,Hibbert,20/12/2001,4 Willow End,,,Oxfordshire,OX11 6EA,(01367) 472640,F,SJR,IHibbert@cherwell.oxon.sch.uk
+No15,Janis,Hoffman,07/08/2001,21 White Post Road,,Bodicote,Oxfordshire,OX15 4BN,(01608) 477843,M,SJR,JHoffman@cherwell.oxon.sch.uk
+No16,Emma,Holmes,13/03/2001,12 Ledgers Close,,Oxford,Oxfordshire,OX4 1TR,(01865) 473256,M,PLT,EHolmes@cherwell.oxon.sch.uk
+No17,Peggy,Stephens,02/09/2001,144 Oxford Road,,Banbury,Oxfordshire,OX16 9BD,(0118) 216 0808,F,RLH,PStephens@cherwell.oxon.sch.uk
+No18,Tony,Davis,02/10/2001,1 The Square,Swalcliffe,Banbury,Oxfordshire,OX15 5EL,(01235) 780324,F,PLT,TDavis@cherwell.oxon.sch.uk
+No19,Leroy,Williams,11/01/2002, South Street,,Wantage,Oxfordshire,OX12 5FD,(01865) 364647,F,JKS,LWilliams@cherwell.oxon.sch.uk
+No20,Francisco,Stone,10/02/2001,1 Sibford Road,Hook Norton,Banbury,Oxfordshire,OX15 5JX,(01235) 822725,F,JKS,FStone@cherwell.oxon.sch.uk
+No21,Clark,Barrett,12/03/2002,429 Saint Mary's Road,,Oxford,Oxfordshire,OX4 1PX,(01235) 134630,M,SJR,CBarrett@cherwell.oxon.sch.uk
+No22,Stanley,Watson,28/04/2001,7 Meadow Close,Moulsford,Wallingford,Oxfordshire,OX10 9JL,(01865) 257845,M,RLH,SWatson@cherwell.oxon.sch.uk
+No23,Hector,Wheeler,15/06/2001,22-26 Glebe Gardens,Grove,Wantage,Oxfordshire,OX12 7GH,(01865) 248564,F,RLH,HWheeler@cherwell.oxon.sch.uk
+No24,Tomas,White,10/04/2001,15 Marlborough Court,,Oxford,Oxfordshire,OX2 0QT,(01295) 632598,M,SJR,TWhite@cherwell.oxon.sch.uk
+No25,Willow,Brown,06/02/2001,61 Green Close,,Didcot,Oxfordshire,OX11 4FL,(01865) 742517,F,SJR,WBrown@cherwell.oxon.sch.uk
+No26,Beryl,Lock,25/04/2002,69 Andersey Way,,Abingdon,Oxfordshire,OX14 5NW,(01298) 555869,F,PLT,BLock@cherwell.oxon.sch.uk
